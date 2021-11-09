@@ -17,7 +17,7 @@ void loop()
   //tutaj wstawiam słowo w kodzie morse'a
   beep(bip, 150); //kropka
   delay(50);
-  beep(bip, 150); //kropka
+  beep(bip, 350); //kropka
   delay(50);
   beep(bip, 150); //kropka
   delay(50);
